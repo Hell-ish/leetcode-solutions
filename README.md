@@ -11,4 +11,9 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hell-ish/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/Hell-ish/leetcode-solutions/tree/master/0060-permutation-sequence) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Hell-ish/leetcode-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
