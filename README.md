@@ -26,4 +26,16 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [0180-consecutive-numbers](https://github.com/Hell-ish/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Hell-ish/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Hell-ish/leetcode-solutions/tree/master/0182-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
