@@ -20,4 +20,5 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Hell-ish/leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Hell-ish/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
