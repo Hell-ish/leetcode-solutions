@@ -58,6 +58,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hell-ish/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Hell-ish/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Binary Search
 |  |
@@ -72,4 +73,12 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Hell-ish/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Hash Table
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
