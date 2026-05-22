@@ -37,6 +37,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Backtracking
 |  |
 | ------- |
