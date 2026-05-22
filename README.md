@@ -34,6 +34,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Hell-ish/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Hell-ish/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,4 +150,12 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hell-ish/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hell-ish/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
