@@ -57,11 +57,13 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hell-ish/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Hell-ish/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hell-ish/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Greedy
 |  |
 | ------- |
