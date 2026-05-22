@@ -37,6 +37,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Backtracking
@@ -60,6 +61,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hell-ish/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -106,5 +108,14 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
