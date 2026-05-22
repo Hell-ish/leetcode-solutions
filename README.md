@@ -61,12 +61,14 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Hell-ish/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hell-ish/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
 |  |
 | ------- |
@@ -85,8 +87,21 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Simulation
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Matrix
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
