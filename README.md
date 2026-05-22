@@ -33,6 +33,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
@@ -70,6 +72,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
@@ -123,4 +126,16 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
