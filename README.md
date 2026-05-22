@@ -75,6 +75,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3637-trionic-array-i](https://github.com/Hell-ish/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
