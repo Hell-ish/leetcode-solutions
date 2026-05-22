@@ -56,6 +56,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hell-ish/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | ------- |
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,4 +141,8 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
