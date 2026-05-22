@@ -40,6 +40,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Hell-ish/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Hell-ish/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
 | ------- |
