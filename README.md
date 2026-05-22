@@ -38,6 +38,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hell-ish/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [0033-search-in-rotated-sorted-array](https://github.com/Hell-ish/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hell-ish/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Hell-ish/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
