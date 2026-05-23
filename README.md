@@ -72,6 +72,7 @@ Collection of LeetCode solutions for Data Structures &amp; Algorithms practice i
 | [1345-jump-game-iv](https://github.com/Hell-ish/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hell-ish/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Hell-ish/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hell-ish/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hell-ish/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/Hell-ish/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hell-ish/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
